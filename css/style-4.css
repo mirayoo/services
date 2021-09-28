@@ -867,6 +867,7 @@ p.footer-subtitle {
 }
 .complex-text .col-lg-9 img {
     margin-bottom: 32px;
+    width: 100%;
 }
 .complex-text .col-lg-9 p {
     margin-bottom: 32px;
